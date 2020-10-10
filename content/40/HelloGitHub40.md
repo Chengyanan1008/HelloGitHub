@@ -34,10 +34,12 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -72,7 +74,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cnlh/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
+6、[nps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ehang-io/nps)：一款功能强大、轻量级的内网穿透代理服务器。支持 TCP 和 UDP 流量转发、支持内网 HTTP 代理、内网 socks5 代理、snappy 压缩、站点保护、加密传输、多路复用等功能。拥有 web 图形化管理，集成多用户模式。可以自搭建内网穿透代理服务，用来替代付费的内网穿透服务。又不像其他类似项目依赖命令行，它有图形页面。安装：
 ```
 go get -u github.com/cnlh/nps
 go build cmd/nps/nps.go # 服务端程序
@@ -258,7 +260,7 @@ $ rubocop
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zxqfl/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
+36、[TabNine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codota/TabNine)：基于 OpenAI 的语言模型的代码补全工具。支持 23 种编程语言、5 种编辑器（VS Code、Sublime Text、Atom、Emacs、Vim）、使用简单，效果惊艳
 
 37、[hub](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/hub)：一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。这年头有很多 Hub，什么 GitHub、SciHub、xxxxHub 等等，但是最近图灵奖得主 Yann LeCun 强推的 PyTorch-Hub。无论是 ResNet、BERT、GPT、VGG、PGAN 还是 MobileNet 等经典模型，只需输入一行代码，都能实现一键调用！妈妈再也不用担心你的模型啦！示例代码：
 ```
@@ -337,8 +339,10 @@ forward(input_ids, token_type_ids=None, attention_mask=None, masked_lm_labels=No
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

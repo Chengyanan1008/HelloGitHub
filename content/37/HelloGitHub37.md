@@ -32,10 +32,12 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -61,7 +63,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/overlord.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[kratos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bilibili/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
+4、[kratos](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/go-kratos/kratos)：哔哩哔哩开源的一套 Go 微服务框架，包含大量微服务相关框架及工具。解决了 gin 在微服务场景下的一些适配和微服务本身的一系列生态，[快速开始](https://github.com/bilibili/kratos/blob/master/doc/wiki-cn/quickstart.md)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/kratos.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -198,7 +200,7 @@ pyxel.run(update, draw)
 
 25、[REKCARC-TSC-UHT](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程相关资源集合。内容丰富，包含从大一到大四，跟着清华学子一起学习传说中高校的课程吧
 
-26、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CoolPhilChen/SJTU-Courses)：上海交通大学课程资料分享
+26、[SJTU-Courses](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/c-hj/SJTU-Courses)：上海交通大学课程资料分享
 
 27、[libpku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lib-pku/libpku)：由第三方整理的北京大学课程资料，涵盖了专业课、公选课、通选课等
 
@@ -221,7 +223,7 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/openpose.png' style="max-width:80%; max-height=80%;"></img></p>
 
-32、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/TencentYoutuResearch/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
+32、[FaceDetection-DSFD](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/FaceDetection-DSFD)：腾讯优图的双分支人脸检测器全新算法，该算法已经被计算机视觉顶级会议 CVPR 2019 接收。优图此次提出的 DSFD 人脸检测算法，主要有 3 点创新：
 1. 新的特征增强模块（FEM：Feature Enhance Module）
 2. 分层锚点渐进式的代价函数监督（PLA：Progressive Anchor Loss）
 3. 改进的锚点匹配策略（Improved Anchor Matching Strategy）
@@ -232,7 +234,7 @@ pyxel.run(update, draw)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/SPADE.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hzwer/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
+34、[ICCV2019-LearningToPaint](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/megvii-research/ICCV2019-LearningToPaint)：一个深度强化学习项目，研究如何让机器用画笔画画。也可体验制作自己的绘画或根据一张图片生成一整个绘画过程
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/37/img/LearningToPaint.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -246,8 +248,10 @@ pyxel.run(update, draw)
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

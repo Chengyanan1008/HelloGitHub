@@ -31,10 +31,12 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -257,7 +259,7 @@ python3 src/interactive_conditional_samples.py --top_k 40
 
 28、[deep-learning-drizzle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kmario23/deep-learning-drizzle)：世界计算机名校的深度学习、强化学习、机器学习、计算机视觉、自然语言处理等方面的公开课
 
-29、[stanfordnlp](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanfordnlp/stanfordnlp)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码：
+29、[stanza](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanfordnlp/stanza)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码：
 ```python
 import stanfordnlp
 stanfordnlp.download('en')   # This downloads the English models for the neural pipeline
@@ -278,8 +280,10 @@ doc.sentences[0].print_dependencies()
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

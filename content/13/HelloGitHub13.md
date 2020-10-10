@@ -30,10 +30,12 @@
 - [开源书籍](#开源书籍)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -46,7 +48,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-2、[Dopamine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器
+2、[dopamine-windows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/dopamine-windows)：基于WPF编写的现代扁平风格轻量级播放器
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -81,7 +83,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-9、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pd4d10/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
+9、[js-stack-from-scratch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xitu/js-stack-from-scratch)：从零开始构建 JavaScript 技术栈（中文版）
 
 10、[element](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ElemeFE/element)：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助你的网站快速成型。[官网](http://element.eleme.io/#/zh-CN)
 
@@ -163,7 +165,7 @@ Detailed:
 └── 等等
 ```
 
-19、[searx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/asciimoo/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
+19、[searx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/searx/searx)：分分钟打造一个聚合的搜索引擎，使用简单，部署方便。拓展方便，基于插件式的管理。[演示地址](https://searx.me/)
 
 20、[grequests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spyoungtech/grequests)：Rquests + Gevent 让异步 HTTP 变得简单、人性化。示例代码：
 ```python
@@ -220,8 +222,10 @@ Request failed
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

@@ -34,10 +34,12 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -45,7 +47,7 @@
 > **以下为本期内容**｜每个月 **28** 号发布最新一期
 
 ### C# 项目
-1、[lite](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lite-works/lite)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
+1、[feel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kulics-works/feel)：一个专注于简单的开源跨平台编程语言。这门语言的设计目标是改进阅读与编写效率，降低语法负担。让使用者能够把真正的注意力放在解决问题上，只需极少的代码就能优雅地表达逻辑。[中文手册](https://github.com/kulics/xs/blob/master/book-zh/introduction.md)，示例代码如下：
 ```
 # export namespace
 \HelloWorld {
@@ -140,7 +142,7 @@ $ pprof -web [你的golang程序二进制文件] profile.pb.gz
 
 8、[learn-go-with-tests](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/quii/learn-go-with-tests)：通过单元测试学习 Go 语言。下载仓库源码后，进入对应目录。每一个小文件夹就是一个对应的 Go 项目，在里面`go test`即可运行单元测试。由于是测试驱动开发，所以需要在你改动代码之后跑通单元测试才算学会通过。每一个对应的文件夹都有相应 Markdown 文字教程，比较浅显易懂。而且还有[中文版](https://studygolang.gitbook.io/learn-go-with-tests)
 
-9、[auxpi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aimerforreimu/auxpi)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
+9、[auxpi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/0xDkd/auxpi)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/AUXPI.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -178,7 +180,7 @@ Flowable.just(photos)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/ncform.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-14、[vscode-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jdneo/vscode-leetcode)：这是一个可以让用户在 VS Code 编辑器中，练习 LeetCode 习题的插件。支持：查看高票解答、提交答案、测试答案等。提高了刷题效率，助你在校招、社招中杀出重围。上班摸鱼刷题利器
+14、[vscode-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LeetCode-OpenSource/vscode-leetcode)：这是一个可以让用户在 VS Code 编辑器中，练习 LeetCode 习题的插件。支持：查看高票解答、提交答案、测试答案等。提高了刷题效率，助你在校招、社招中杀出重围。上班摸鱼刷题利器
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/vscode-leetcode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -319,8 +321,10 @@ render(<Player sources={sources} />)
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

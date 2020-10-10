@@ -33,10 +33,12 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -254,7 +256,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 ### 教程
 27、[advanced-java](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/doocs/advanced-java)：一份 Java 工程师进阶知识点集合，内容涵盖：高并发、分布式、高可用、微服务等领域知识。这些知识点不局限于 Java 语言，后端的同学也可以从中收获很多，[在线阅读](https://doocs.github.io/advanced-java)
 
-28、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Q-Angelo/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
+28、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qufei1993/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
 
 29、[c9-python-getting-started](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/c9-python-getting-started)：微软出品的零基础 Python 入门教程，内容浅显易懂。包含示例代码、演示的 PPT、[配套的 Youtube 视频](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
@@ -287,8 +289,10 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

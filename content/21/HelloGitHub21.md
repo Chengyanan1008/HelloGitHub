@@ -29,10 +29,12 @@
 - [开源书籍](#开源书籍)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -191,7 +193,7 @@ print(", ".join(seg_list))
 
 21、[android-training-course-in-chinese](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kesenhoo/android-training-course-in-chinese)：Android 官方培训课程中文版，[在线阅读](http://hukai.me/android-training-course-in-chinese/index.html)
 
-22、[go-advices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cristaloleg/go-advices)：Go 建议[中文版](https://github.com/cristaloleg/go-advices/blob/master/README_ZH.md)
+22、[go-advice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cristaloleg/go-advice)：Go 建议[中文版](https://github.com/cristaloleg/go-advices/blob/master/README_ZH.md)
 
 23、[git-flight-rules](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/k88hudson/git-flight-rules)：Git 飞行规则，所谓飞行规则就是特定场景的非常详细的标准处理流程。该项目记录了使用 Git 过程中，如果遇到问题的解决办法和步骤，[中文](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
@@ -210,8 +212,10 @@ print(", ".join(seg_list))
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 

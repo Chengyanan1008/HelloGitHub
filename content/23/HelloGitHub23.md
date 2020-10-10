@@ -31,10 +31,12 @@
 - [机器学习](#机器学习)
 
 
-**Tips**：如果文中的图刷不出来，可以向我们反馈。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
+- [返回首页](https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9)
+
+**Tips**：如果文中的图刷不出来，可以向我们[反馈](https://github.com/521xueweihan/HelloGitHub/issues/899)。也可以访问 [官网](https://hellogithub.com/) 获取更好的阅读体验。
 
 <p align="center">
-  <img src="https://hellogithub.cn-bj.ufileos.com/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号
 </p>
 
@@ -97,7 +99,7 @@ foo(
 );
 ```
 
-8、[node-fetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bitinn/node-fetch)：将 fetch 引入了 node 环境，配合了 node 强大的 http 模块。做到了在不同的 JS 环境中使用一致的API。fetch API 是代替 XMLHttpRequest 的一种全新的解决方案，其简化了 XHR 的复杂步骤，采用了 Promise。示例代码如下：
+8、[node-fetch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/node-fetch/node-fetch)：将 fetch 引入了 node 环境，配合了 node 强大的 http 模块。做到了在不同的 JS 环境中使用一致的API。fetch API 是代替 XMLHttpRequest 的一种全新的解决方案，其简化了 XHR 的复杂步骤，采用了 Promise。示例代码如下：
 ```javascript
 fetch('/url').then(res => {}).catch(err => {})
 ```
@@ -176,8 +178,10 @@ fetch('/url').then(res => {}).catch(err => {})
 
 ---
 <p align="center">
-    看完了，还不够？<a href='https://github.com/ruanyf/weekly'><科技爱好者周刊></a>。还不过瘾，那就看看 <a href='https://github.com/521xueweihan/HelloGitHub#%E5%86%85%E5%AE%B9'><往期内容></a>吧。<br>
-    <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击分享发现的有趣项目</a>
+    👉 <a href='https://afdian.net/@HelloGitHub'>点击赞助</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>点击推荐项目</a> 👈<br>
+    关注公众号：<strong>HelloGitHub</strong><br>
+    "第一时间收到推送及更多内容"<br>
+
 </p>
 
 
